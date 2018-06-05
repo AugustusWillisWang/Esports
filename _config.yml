@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: zeweiwang@outlook.com
 description: "The website focus on the deepest discussion about esports."
 keyword: "Esports"
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://augustuswilliswang.github.io"              # your host, for absolute URL
+baseurl: "/Esports"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
