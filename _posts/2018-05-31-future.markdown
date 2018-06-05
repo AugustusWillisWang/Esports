@@ -1,8 +1,7 @@
 ---
-layout:     keynote
+layout:     post
 title:      "Future for esports"
 subtitle:   "What will esport be like in the future"
-iframe:     "http://huangxuan.me/js-module-7day/"
 date:       2018-05-31
 author:     "William Wang"
 header-img: "img/post-bg-js-version.jpg"
