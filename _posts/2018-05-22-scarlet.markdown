@@ -6,7 +6,8 @@ date:       2018-05-22
 author:     "William Wang"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - Player
+    - Players
+    - Gender
 ---
 
 
