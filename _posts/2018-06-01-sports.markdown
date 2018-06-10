@@ -4,7 +4,7 @@ title:      "Becoming sports"
 subtitle:   "Comparison between esports and traditional sports"
 date:       2018-06-01
 author:     "Author"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/bg2.jpg"
 tags:
     - Industrial
     - Business

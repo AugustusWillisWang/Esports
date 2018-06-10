@@ -12,11 +12,13 @@ Website deployed by: William Wang
 
 Team members:
 
-* A
-* B
-* C
-* D
-* William Wang
+* Fay Isaac [fay_isaac@icloud.com](fay_isaac@icloud.com)
+* Koko Zhao [zhao_xurui@126.com](zhao_xurui@126.com)
+* Luna Liang [nihao@126.com](nihao@126.com)
+* Penny Chen [huaji@233.com](huaji@233.com)
+* William Wang [zeweiwang@outlook.com](zeweiwang@outlook.com)
+
+Pictures used in this website are copyleft photos from [unsplash](https://unsplash.com/photos/XmYSlYrupL8).
 
 ---
 <p style="text-align:right;">
