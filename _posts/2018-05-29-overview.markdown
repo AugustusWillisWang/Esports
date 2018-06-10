@@ -4,7 +4,7 @@ title:      "Overview on Esports"
 subtitle:   "Esports industrial: from the league to eSports participants"
 date:       2018-05-29 23:23:23
 author:     "William Wang"
-header-img: "img/0.jpeg"
+header-img: "img/bg.jpg"
 tags:
     - Industrial
     - Business
