@@ -16,7 +16,7 @@ tags:
 
 Overwatch League is the biggest thing in e-sports right now. The first season started regular season play in January 2018. However, one thing is missing from this league: **women**. 
 
-[g1.jpeg](g1.jpeg)
+![g1.jpeg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g1.jpeg?raw=true)
 
 While women aren’t banned from participating in this league, all 113 players are men. It’s not that there aren’t any women who are top-tier Overwatch players. In 2016, Kim Se-yeon, who plays under the gamer tag "Geguri," was competing in an amateur Overwatch Tournament. She played as the tank character Zarya in one match. However, She’s so good that she received accusations of cheating until she did a live-stream with a camera aimed at her hands to prove she was controlling her character’s every movement indeed.
 
