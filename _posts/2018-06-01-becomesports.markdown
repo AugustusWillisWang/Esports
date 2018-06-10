@@ -3,7 +3,7 @@ layout:     post
 title:      "Becoming sports"
 subtitle:   "Comparison between esports and traditional sports"
 date:       2018-06-01
-author:     "Author"
+author:     "Penny Chen"
 header-img: "img/bg2.jpg"
 tags:
     - Industrial
