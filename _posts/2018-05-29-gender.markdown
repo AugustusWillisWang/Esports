@@ -4,7 +4,7 @@ title:      "Gender & E-sports "
 subtitle:   "Gender Segregation in E-sports —— give women a foothold, or just further segregate them?"
 date:       2018-05-29
 author:     "Author"
-header-img: "img/0.jpg"
+header-img: "img/0.jpeg"
 tags:
     - Gender segregation
     - e-sports

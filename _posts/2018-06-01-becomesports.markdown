@@ -14,7 +14,7 @@ tags:
 
 ## Thinking Ahead
 
-![p1.jpg](p1.jpg)
+![p1.jpg](img/p1.jpg)
 
 For major brand like Coca-Cola, they’ve already gone one step ahead of most of us and started its investment in e-sports industry. This is not a rational decision. E-sports premising future can be shown from reports which suggest quickly-rising revenue of hundreds of million dollars.
 
@@ -26,7 +26,7 @@ Some entrepreneurs noticed the opportunity, especially those who already devoted
 
 For businessman trying to make a quick fortune out of the industry, this seems like a perfect plan. 
 
-![p2.jpg](p2.jpg)
+![p2.jpg](img/p2.jpg)
 
 ### Existing Resources and Experience
 

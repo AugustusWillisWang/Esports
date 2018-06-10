@@ -4,7 +4,7 @@ title:      "Overview on Esports"
 subtitle:   "Esports industrial: from the league to eSports participants"
 date:       2018-05-29 23:23:23
 author:     "William Wang"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/0.jpeg"
 tags:
     - Industrial
     - Business
@@ -13,7 +13,7 @@ tags:
     - Organizers
 ---
 
-> todo: add details, add data, add examples
+<!-- > todo: add details, add data, add examples -->
 
 <!-- ref: https://www.forbes.com/sites/darrenheitner/2015/10/15/the-business-of-esports-is-on-pace-to-explode/#23ff0307438a
 
@@ -41,64 +41,19 @@ ref: https://www.engadget.com/2015/07/31/the-business-of-esports-in-numbers/ -->
 
 ref: https://www.natlawreview.com/article/esports-insights-and-trends-staying-current-emerging-developments-booming-esports-0 -->
 
-
-### 1. Introduction
+<!-- ### 1. Introduction -->
 
 Is has not been so many years since the word *e-sports* came into the eyes of general public, and this word had been long considered to be equal to simply game playing. People who are not concerned about e-sports may find it difficult to understand why so many people are boosting e-sports now and hard to believe that many people can live by their jobs about e-sports. Yet the industrial of e-sports has been on its track since 1998 in Korea, and it is blooming faster and faster with the help of the Mobile Internet.
 
 In old days, people underlooked esport's future because at that time, esports depend heavily on their sponsers. These sponsers are often giant companies and the money ther paid on esports were only a small amount of money, compared with the vast cost for their advertising. In recent days, however, esports are becoming more and more like traditional sporting events, in which the organizer of the game benefits both from the audiences and the advertisement publishers, which lead to the effect that more and more investers are becoming interested in esports.
 
-In this passage, we will discuss about how esports runs, how its all involvers get benefit from it, and what will esports be like in the future. Perhaps, it will reveal the answer to the question: why the word "esports" are so popular now.
+In this passage, we will discuss about how esports runs, how its all involvers get benefit from it, and what will esports be like in the future. Perhaps, it will reveal the answer to the question: what is e sports and why the word "esports" are so popular now.
 
-### 2. The industry chain of e-sports
+### 1. The industry chain of e-sports
 
 <!-- concentric circles -->
 
-```mermaid
-graph TD;
-
-subgraph content-provider
-
-participants
-game-providers
-competition-organizers
-league
-club
-
-end
-
-subgraph spectators
-
-spectators
-
-end
-
-participants-->competition
-competition--benefit-->participants
-game-providers-->competition
-competition-organizers-->competition
-league-->competition
-club-->competition
-
-competition-->TV
-competition-->live-streaming
-
-TV-->cast
-live-streaming-->cast
-
-cast-->spectators
-
-competition--report-->spectators
-
-spectators--become-->sponsers
-spectators--benefit-->investers
-
-sponsers--benefit-->content-provider
-investers--benefit-->content-provider
-
-regulator
-
-```
+![chain.png](img/chain.png)
 
 As this picture shows, the industry of esports has become a closed cycle, and everyone in the cycle gets benefits from the industrial, though people in different position of the picture may have different kinds of benefits. Besides this, this picture is also a panoramic picture for esports, which shows how a esport event is organized.
 
@@ -110,9 +65,18 @@ The identities of the organzers are varied. Take China for instance. In the past
 
 Things changed because of the development of technology. The Mobile Internet and the fast growing of live-streaming lead esports int to the sight of everyone. At this time, with the accmulation in the past years, even a grandmother aged woman in the supermarket can tell what esports is, that is to say, esports is becoming acknowledged by the society, then came the spring of esports. The investers find the market hide behind the enourmous number of people who care about esports, and set foot into this area. The professional gamers, the team, the organize companies both benefited from the capital surging into this area.
 
-* todo: influence of capital.
+![iem.jpg](img/iem.jpg)
+
+*The Intel Extereme Master Series(IEM) is one of the most historical esports events since 2006. IEM2017 was also a part of the exhibition games of the 2017 Asian Games*
+
+<!-- * todo: influence of capital. -->
 
 With the surging money from the capital market, the players in this field has changed greatly. Game manufacturers now regard esports not only an advertisement for their games, but a new source for income, and a boost for the company on share market. (Blizard, for instance)
+
+![ow.jpg](img/ow.jpg)
+
+*The game Overwatch has been a powerful boost for Blizard(NSDQ: ATVI). Source: Blizard's Offical Website*
+
 
 #### Professioal esports players, teams and leagues
 
@@ -170,7 +134,10 @@ Audiences are the reason that esports can exist. In fact, it is because of the v
 
 Virtual items is an interesting idea, and it is first invented right in esports. The organizes of the competitions sell virtual decorations can be used in games, and a part of the sell income will be added to the award of the competitions. This business mode has been provided to be parctical in TI series(the Global Invitive Competitions of Data2). Both the funs, the players and the game organizers gain from it.
 
-### 3. Conclusion
+***
+
+<!-- ### 3. Conclusion -->
 
 To surmmrize, we can see that esports has become an industrial just alike traditional professional sports, which is proved to be a feasible way to run. What makes esports more promising than trditional sports is that the market is, unlike traditional professional sports domained by giants like NFL, MLB and NBA, still a piece of virgin land. The industrial is still in its upraising phase now, and the market has not yet solidized. Therefore, along with the growing attention people paid to esports and the decline of people's prejudge of esports, esports is still a valuable lore waiting to be mined. 
 
+For futher news, comments and ideas about esports, see [our blogs](index.html).
