@@ -53,7 +53,7 @@ In this passage, we will discuss about how esports runs, how its all involvers g
 
 <!-- concentric circles -->
 
-![chain.png](chain.png)
+![chain.png](https://github.com/AugustusWillisWang/Esports/blob/master/img/chain.png?raw=true)
 
 As this picture shows, the industry of esports has become a closed cycle, and everyone in the cycle gets benefits from the industrial, though people in different position of the picture may have different kinds of benefits. Besides this, this picture is also a panoramic picture for esports, which shows how a esport event is organized.
 
@@ -65,7 +65,7 @@ The identities of the organzers are varied. Take China for instance. In the past
 
 Things changed because of the development of technology. The Mobile Internet and the fast growing of live-streaming lead esports int to the sight of everyone. At this time, with the accmulation in the past years, even a grandmother aged woman in the supermarket can tell what esports is, that is to say, esports is becoming acknowledged by the society, then came the spring of esports. The investers find the market hide behind the enourmous number of people who care about esports, and set foot into this area. The professional gamers, the team, the organize companies both benefited from the capital surging into this area.
 
-![iem.jpg](iem.jpg)
+![iem.jpg](https://github.com/AugustusWillisWang/Esports/blob/master/img/iem.jpg?raw=true)
 
 *The Intel Extereme Master Series(IEM) is one of the most historical esports events since 2006. IEM2017 was also a part of the exhibition games of the 2017 Asian Games*
 
@@ -73,7 +73,7 @@ Things changed because of the development of technology. The Mobile Internet and
 
 With the surging money from the capital market, the players in this field has changed greatly. Game manufacturers now regard esports not only an advertisement for their games, but a new source for income, and a boost for the company on share market. (Blizard, for instance)
 
-![ow.jpg](ow.jpg)
+![ow.jpg](https://github.com/AugustusWillisWang/Esports/blob/master/img/ow.jpg?raw=true)
 
 *The game Overwatch has been a powerful boost for Blizard(NSDQ: ATVI). Source: Blizard's Offical Website*
 

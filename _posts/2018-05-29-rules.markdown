@@ -14,7 +14,7 @@ tags:
 
 The e-sports industry has been a booming industry with thousands of professionals devoting and thousands of sponsors contributing. The trend of e-sports has brought considerable chances and problems.
 
-![](img/df12b2e229451cdf4786d080d65abcd3.tiff)
+![](https://github.com/AugustusWillisWang/Esports/blob/master/img/1.jpg?raw=true)
 
 *Thousands of people are devoted into the e-sports industry.*
 
@@ -30,7 +30,7 @@ In China, on the recent two sessions, representatives of all walks of life, incl
 
 For network game, opinions vary among representatives. For example, Hu Wanning, vice chairman of Chinese people's political consultative conference (CPPCC) of Tangshan city, Hebei province, claims more radically that online game is the spirit of drug, so that the online game should be finished with a single blow. While Ma huateng, as the chief executive of the biggest game company in China, definitely talks more about the positive side of online games, but feels a punch in the hand. On the other hand, it is suggested that the game grading system should be improved as soon as possible, to control the children's online time, to regulate the advertising of game companies, and to raise the tax of the game publication. For instance, the representative of the National People's Congress (NPC) proposes that the dissemination of e-sports and online games should be strictly controlled from the national level, with the implementation of hierarchical management and real-name system. It is recommended that the state should formulate relevant regulations to restrict the production of games and advertising links on the mainstream websites, and prevent the induction of teenagers. Additionally, some propose that through raising taxes on the game industry, company will be more cautious to decide on economic issue because they will pay higher expenses to make profits.
 
-![](img/e565581f6248a3126b87d131114781fd.tiff)
+![](https://github.com/AugustusWillisWang/Esports/blob/master/img/2.jpg?raw=true)
 
 *Is e-sports the spirits of drugs?*
 
@@ -46,7 +46,7 @@ moderate, still watching the more serious negative effects of e-sports on the
 society and citizens, which gives the e-sports industry more space to develop,
 but also slows down the pace of imposing supervision on the industry.
 
-![](img/8520cb76489b44c2fe9be5f7e22433ea.tiff)
+![](https://github.com/AugustusWillisWang/Esports/blob/master/img/3.jpg?raw=true)
 
 *Representatives speak on the two sessions.*
 
@@ -56,7 +56,7 @@ Korea's e-sports industry started early and developed rapidly, and has become th
 
 In the Mar 20, 2016, the France government released a [75 page](http://www.economie.gouv.fr/files/files/PDF/rapport-etape-esport-mars2016.pdf) report on e-sports. The report aims at giving legislative solutions to help French e-sports grow. (Adrien Auxent, 2016)
 
-![](img/053dfa98955a7f28ca7bd66a4f666232.tiff)
+![](https://github.com/AugustusWillisWang/Esports/blob/master/img/4.jpg?raw=true)
 
 *A French e-sports team*
 
@@ -66,7 +66,7 @@ In conclusion, the proper supervision of e-sports industry is a consensus among 
 
 ## Could e-sports come into the Olympics?
 
-![](img/4f8646e9c8317fcd360df41708dfeff3.tiff)
+![](https://github.com/AugustusWillisWang/Esports/blob/master/img/5.jpg?raw=true)
 
 *Image from leSF Global Executive Summit 2017 Recap*
 
@@ -74,19 +74,15 @@ The leSF has long focused on Olympic inclusion and e-sports recognition. In leSF
 
 However, we've taken the first step. The 18th Asian games held in Jakarta, Indonesia in 2018, announced the electronic athletics event will appear as performances at the Asian games, which implies the e-sports finally boarded the great hall. The games selected for the Asian games are divided into team events and individual events. Individual events include Tencent's "Craft Royale", Blizzard's "Hearthstone" and "StarCraft II". While "League of Legends", "Arena of Valor" and "Pro Evolution Soccer 2018" are chosen into group events.
 
-![](img/a07bb7d3acd78dd267ee0399b124bfdc.tiff)
+![](https://github.com/AugustusWillisWang/Esports/blob/master/img/6.jpg?raw=true)
 
 *The announcement of Asian Games claims the selected events.*
 
 After the announcement of the list, Tencent was definitely exuberant due to the fact that half of the selected games belongs to Tencent, after all. Specifically, Arena of Valor, the international edition of Royal Glory, is developed from independent research of Tencent, which undoubtedly encourages the e-sports industry of China. Tencent celebrated the high international recognition in Sina Weibo.
 
-![](img/9fef1bc16ccafff0431d381772a3c6b7.tiff)
+![](https://github.com/AugustusWillisWang/Esports/blob/master/img/7.jpg?raw=true)
 
-![](img/85a75d16e1516bc5e635d462659338a6.tiff)
-
-*Posters made by Tencent to celebrate selected games. The characters on the
-poster are "Competition never fails belief. Three major game products from
-Tencent have been selected in the 2018 Jakarta Asian Games."*
+*Posters made by Tencent to celebrate selected games. The characters on the poster are "Competition never fails belief. Three major game products from Tencent have been selected in the 2018 Jakarta Asian Games."*
 
 As the largest comprehensive sports meeting in Asia, the Asian Games follow their criteria and principles to select projects. Therefore, it is no coincidence that the six items enter the Asian Games family. These six events include MOBA (Multiplayer Online Battle Arena) games, strategy card games, simulated sports games and instant strategy games, covering PC and mobile clients. Only relying on their own popularity cannot fully explain their lucky. In the Olympic Charter, the Olympic spirit is fair competition, mutual understanding, friendship and unity, which requires that the game selected should represent the spirit and idea of Asian Games.
 
@@ -110,7 +106,7 @@ What can government and clubs do to deal with unemployment of retired e-sports p
 
 First of all, players should continue basic and advanced education. Generally, professionals are not good at learning. They quit from high school to join teams, which brings them disadvantages in the recruitment market. The clubs are obliged to provide their player with related training of further education and working.
 
-![](img/f59b72e306aacabc6371283457406571.tiff)
+![](https://github.com/AugustusWillisWang/Esports/blob/master/img/8.jpg?raw=true)
 
 *Communication University of China (CUC) held the first recruitment meetings of
 e-sports subjects.*

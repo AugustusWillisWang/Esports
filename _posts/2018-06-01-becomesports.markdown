@@ -14,7 +14,7 @@ tags:
 
 ## Thinking Ahead
 
-![p1.jpg](img/p1.jpg)
+![p1.jpg](https://github.com/AugustusWillisWang/Esports/blob/master/img/p1.jpg?raw=true)
 
 For major brand like Coca-Cola, they’ve already gone one step ahead of most of us and started its investment in e-sports industry. This is not a rational decision. E-sports premising future can be shown from reports which suggest quickly-rising revenue of hundreds of million dollars.
 
@@ -26,7 +26,7 @@ Some entrepreneurs noticed the opportunity, especially those who already devoted
 
 For businessman trying to make a quick fortune out of the industry, this seems like a perfect plan. 
 
-![p2.jpg](img/p2.jpg)
+![p2.jpg](https://github.com/AugustusWillisWang/Esports/blob/master/img/p2.jpg?raw=true)
 
 ### Existing Resources and Experience
 
@@ -38,11 +38,11 @@ Connections with business partners from traditional sports industry can help the
 
 The new-born industry sure has its new aspects for those skilled businessman to pay more attention to. If they solely use the traditional ways of broadcasting, like using television and radio, it might not work as well as traditional sports. The sudden rise of e-sports industry thanks to the wide use and well spread of personal digital devices and computers. Nowadays, most of the e-sports tournaments are live streaming online. 
 
-![p3.jpg](p3.jpg)
+![p3.jpg](https://github.com/AugustusWillisWang/Esports/blob/master/img/p3.jpg?raw=true)
 
 Some might argue, isn’t the rise of e-sports on traditional broadcasters a good chance to expand the viewer group? People holding this kind of wishful thinking neglect the fact that those who are still using TV or radio are mostly the old-fashions who have little likelihood to suddenly turn to watch streaming video games. Spending huge amount of effort to gain little rise on viewership return poorly and might even be in vain.
 
-*For those who are trying to make it big in the e-sports industry, it’s crucial to make connection with the live streaming platform but there still are things to concern.*
+**For those who are trying to make it big in the e-sports industry, it’s crucial to make connection with the live streaming platform but there still are things to concern.**
 
 ### Concerns Brought by New Broadcasters
 
@@ -54,7 +54,7 @@ Another thing that should be considered is that the make up today’s online vie
 
 Just like traditional sports field, many serious social problems are concerned. Take gender discrimination and cheating in games for example, they both exist in traditional sports and e-sports. They already are some discuss upon those problems. E-sports industry can gain experience from traditional sports and establish its own regulations base on the current rules in effect in traditional sports fields. This can save people a lot of energy.
 
-[p4.jpg](p4.jpg)
+[p4.jpg](https://github.com/AugustusWillisWang/Esports/blob/master/img/p4.jpg?raw=true)
 
 There’s more than that. With the convenience provide by online viewers of e-sports, those social problems now can raise much more concerns and can start hit debate among people. In this way, people will find better solution for all those problems and might even find out the root of those problems and make our society a better place.
 
