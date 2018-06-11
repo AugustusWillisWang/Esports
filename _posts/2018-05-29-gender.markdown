@@ -36,7 +36,7 @@ E-sports is an industry which is expanding tenfold. While this industry enjoys i
 With this situation of female in e-sports, it’s hardly surprising that some people think there’s been a need to facilitate women-only e-sports teams, tournaments and leagues. This may give a solution to narrow the gender gap in e-sports and encourage more women into the industry. But this problem is not that simple as we think.
 
  
-![g3.jpg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g3.jpeg?raw=true)
+<!-- ![g3.jpg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g3.jpeg?raw=true) -->
 
 In July 2014, the International e-Sports Federation (IeSF) came under intense scrutiny – and criticism – for its segregation of female competitors. 
 
@@ -70,7 +70,7 @@ Chess historically has featured gender-segregated tournaments; This has nothing 
 	
 The stereotypes that women can’t perform better than man in e-sports still exist in the minds of most people. And female players are seen to be “easy targets” in mainstream competitions - although this is changing with better moderation. It’s no wonder that opportunity and experience aren't the easiest things for female players to gain right now. All-female leagues and competitions are important and necessary to provide positive experiences for - especially young women. 
  
-![g6.jpeg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g6.jpeg?raw=true)
+![g6.jpeg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g6.jpg?raw=true)
 
 There are some drawbacks on female-only teams, leagues and tournaments, though. Despite providing a much-needed platform to get on with training and playing without distraction, Emma points out that “the emphasis on female- only leagues as a solution to the lack of women in esports means that these events are often seen as something women would be happy to do **instead of** ever competing in the most elite leagues.” 
 	
