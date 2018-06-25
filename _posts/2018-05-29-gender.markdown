@@ -1,4 +1,9 @@
 ---
+
+current:    post
+navigation: true
+cover: 'assets/images/0.jpeg'
+
 layout:     post
 title:      "Gender & E-sports "
 subtitle:   "Gender Segregation in E-sports —— give women a foothold, or just further segregate them?"
@@ -14,19 +19,20 @@ tags:
 
 ## Minority in this thriving industry 
 
-Overwatch League is the biggest thing in e-sports right now. The first season started regular season play in January 2018. However, one thing is missing from this league: **women**. 
+Overwatch League becomes the biggest thing in e-sports right now. The league started its first regular season play in January 2018. However, there is one thing missing from this league: **women**. 
 
 ![g1.jpeg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g1.jpeg?raw=true)
 
-While women aren’t banned from participating in this league, all 113 players are men. It’s not that there aren’t any women who are top-tier Overwatch players. In 2016, Kim Se-yeon, who plays under the gamer tag "Geguri," was competing in an amateur Overwatch Tournament. She played as the tank character Zarya in one match. However, She’s so good that she received accusations of cheating until she did a live-stream with a camera aimed at her hands to prove she was controlling her character’s every movement indeed.
+While women aren’t banned from participating in this league, 113 players are men. It’s not about the reason that there aren’t any women who are top players of Overwatch. In 2016, Kim Se-yeon, whose gamer tag is "Geguri", was competing in an amateur Overwatch Tournament. She played as the tank character Zarya in one match. Nevertheless, she performed so well that she received accusations of cheating. She had to did a live-stream with a camera aimed at her hands to prove that she was actually controlling her character’s every movement.
 
 ![g2.jpeg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g2.jpeg?raw=true)
 
 Besides some stereotypes and bias on female players, another problem female players may face in e-sports is sexual harassment. 
 
-When Street Fighter x Tekken player Aris Bakhtanians made a string of uncomfortable sexual comments toward female teammate Miranda “SuperYan” Pakozdi while broadcasting live on a major event’s stream, the incident made international headlines far beyond the gaming press. Bakhtanians guessed at Pakozdi’s bra size and asked to watch her in the bathroom, among other comments.
+>"When Street Fighter x Tekken player Aris Bakhtanians made a string of uncomfortable sexual comments toward female teammate Miranda “SuperYan” Pakozdi while broadcasting live on a major event’s stream, the incident made international headlines far beyond the gaming press. Bakhtanians guessed at Pakozdi’s bra size and asked to watch her in the bathroom, among other comments. "（from Dotesports）
 
-Also, Kim “Eve” Shee-Yoon, one of the first and only female StarCraft 2 professionals, was signed to a professional contract “for her skills and looks,” said her team’s manager, a female. Kim closed her Twitter account in 2013 after what she characterized as “sexual harassment.” Men tweeted pictures of themselves masturbating on pictures of Kim.
+> "Kim “Eve” Shee-Yoon, one of the first and only female StarCraft 2 professionals, was signed to a professional contract “for her skills and looks,” said her team’s manager, a female. Kim closed her Twitter account in 2013 after what she characterized as “sexual harassment.” Men tweeted pictures of themselves masturbating on pictures of Kim. "（from Dotesports）
+
 ![g3.jpeg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g3.jpeg?raw=true)
 
 E-sports is an industry which is expanding tenfold. While this industry enjoys increasing popularity among young people, the industry itself is still mostly **unregulated**. Although many companies facilitate e-sports events, a lot of gamers take it upon themselves to curate teams, events and tournaments, meaning the industry is largely opaque and self-certified. These features of e-sports industry and those problems about gender gap in e-sports make a woman think twice about entering what Steph Harvey described as a **‘boys club’**. Even though more people began to notice this issue in e-sports and a lot has been done to combat this gender gap in e-sports, women still represent only 5% of professional e-sports players. What’s more, female players, as a **minority** in this industry, still earn considerably less than males in terms of tournaments and sponsorships payments, mirroring the problematic state of the mainstream job market. 
@@ -37,21 +43,21 @@ With this situation of female in e-sports, it’s hardly surprising that some pe
 
 <!-- ![g3.jpg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g3.jpeg?raw=true) -->
 
-In July 2014, the International e-Sports Federation (IeSF) came under intense scrutiny – and criticism – for its segregation of female competitors. 
+In July 2014, the International e-Sports Federation (IeSF) came under intense scrutiny and criticism for its segregation of female players. 
 
-Players argued that gender held no importance in a digital competition and, more importantly, that there were no “boy” or “girl” games. Despite of welcoming women to the e-sports industry, gender segregation may only further segregates women from the mainstream and further fuels that disconnect between male and female gamers. What may provide a foothold for one female gamer, might **irritate and isolate** another. 
+Some argued that gender held no importance in a digital competition and, more importantly, that there were no “boy” or “girl” games. Despite of welcoming women to the e-sports industry, gender segregation may only further segregates women from the mainstream and further fuels that disconnect between male and female gamers. What may provide a foothold for one female gamer, might **irritate and isolate** another. 
 
 ## Another Type of Isolation?
 
-IeSF said, “our gender segregation is the outcome of e-Sports trying to mimic other sports, so that people will accept its legitimacy.” As we all know, traditional sports do have gender segregation. However, does it really mean that e-sports has to separate males and females?  
+The IeSF said, “our gender segregation is the outcome of e-Sports trying to mimic other sports, so that people will accept its legitimacy.” As we all know, traditional sports do have gender segregation. However, does it really mean that e-sports has to separate males and females?  
 
 On some level, these goals were ultimately set so e-Sports could be admitted to the Olympics, which requires gender separation. Nevertheless, Success in physical sports is very dependent on gender-influenced factors, such as strength and build. The purposes of gender separation in physical sports is to resolve the physiological differences between men and women. And not all sporting outcomes are based solely on physical strength. In sports such as equestrian where men and women compete together, women are just as likely to outcompete men. E-sports is different from most traditional sports which is based on physical condition. [Studies](https://www.sciencedirect.com/science/article/pii/0193397394900051) show that a woman and a man have an equal capacity for gaming skill beginning at birth and continuing every moment after. Although men outperform women in spatial tasks, both sexes improve with practice and improvement is greater for those with poorer spatial skills. In fact, this gender difference disappears in just ten hours of videogame training.
 
 ![g4.jpeg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g4.jpeg?raw=true)
 
-The IeSF had an emergency meeting to respond to the backlash against its decision to gender-segregate. Although men and women may not differ in cognitive ability, they differ in their participation – there are many more male professional gamers. The IeSF argued this is a more insidious problem because the male-biased population leads to a boys-only mentality. 
+Then, the IeSF had an emergency meeting to respond to the backlash against its decision to gender segregation. Though men and women may not differ in cognitive ability, they differ in their participation (There are more male professional gamers). 
 
-Unfortunately, some argue that there are some problems with this response. Players in female-only competitions still compete in a different subset of games. This suggests to women that not all games (and gamers) are equal. Moreover, when they feel comfortable enough, they can shift over and play more masculine games. But switching games would be like switching sports, and you don’t see professional players doing this successfully. That’s because a different subset of skills are required to succeed. Professional video gaming is no different. And it brushes the problem under the rug, implying there is nothing else they can do until women take gaming into their own hands.
+Unfortunately, some argue that there are some problems with this response. Players in female-only competitions still compete in a different subset of games, which suggests to female players that not all games and gamers are equal. When they feel comfortable enough, they may want to shift over and play more masculine games. However, switching games would be like switching sports (you don’t see professional players doing this successfully, right?). That’s because a different subset of skills is required to succeed. Professional video gaming has no difference on it. Gender segregation just brushes the problem under the rug, implying there is nothing else they can do until women take gaming into their own hands.
 
 ## A Temporary Foothold for Female Players
 
@@ -61,7 +67,7 @@ There are compelling arguments some make as to why these rules could actually he
 
 ![g5.jpeg](https://github.com/AugustusWillisWang/Esports/blob/master/img/g5.jpeg?raw=true)
 
-Chess historically has featured gender-segregated tournaments; This has nothing to do with differences in skill levels between the genders, however, MindSports International development manager and chess coach Eduardo Sajgalik said that it's the best method of helping smaller demographics grow.
+Chess historically has featured gender-segregated tournaments. This has nothing to do with differences in skill levels between the genders. But Mindsports International development manager and chess coach Eduardo Sajgalik said that it's the best method of helping smaller demographics grow.
 
 "Fundamentally, Chess is a rating based game," Sajgalik said in Polygon’s interview. "There's no is proven basis of skill or ability that justifies having a female only competition compared to splitting people by rating." He think that it’s a purely social decision. In Sajgalik's words: "If it helps grow the number or comfort of female players, then its good."
 
@@ -76,5 +82,3 @@ There are some drawbacks on female-only teams, leagues and tournaments, though. 
 It is important for the future as it gives inspiration to young girls that would like to enter the space. In terms of equality, there is still a long way to go, as men get a lot more support from sponsors and investors. The women that will benefit the most from the women's only tournaments and leagues will be the ones that truly dedicate themselves to their craft.
 
 In my opinion, having a finite number of female-only gaming leagues can actually be a net positive for a competitive scene. My thoughts are this would be similar to a youth, senior or similar criteria for entrance where there are a limited number of players in that demographic within the community, making these leagues similar to a social experience. Provided the competitors can enter the main open competitions freely and these are extra tournaments, it's a net positive to ease in players who may otherwise be daunted. We can reverse policies on gender division within e-sports tournaments and retain some female-only leagues as well.
-	
-
