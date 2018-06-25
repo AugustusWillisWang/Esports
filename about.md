@@ -21,8 +21,8 @@ Team members:
 Pictures used in this website are copyleft photos from [unsplash](https://unsplash.com/photos/XmYSlYrupL8).
 
 ---
-<p style="text-align:right;">
-    Special thanks to Hux. This website is build on the template of Hux's Blog. See:
+<!-- <p style="text-align:right;"> -->
+Special thanks to Hux. This website is build on the template of Hux's Blog. See:
     <a href="https://github.com/Huxpro/huxpro.github.io">https://github.com/Huxpro/huxpro.github.io</a>
-</p>
+<!-- </p> -->
 
