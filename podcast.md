@@ -4,22 +4,22 @@ title: "Podcast"
 description: "Listen to our podcast for more about esports." 
 header-img: "img/pod.jpg" 
 ---
-
+<!-- 
 ## [XXXX1](1111.ccc)
 
-by Fay Isaac [fay_isaac@icloud.com](fay_isaac@icloud.com)
+by Fay Isaac [fay_isaac@icloud.com](fay_isaac@icloud.com) -->
 
-## [First win, unachievable task or near future?](sd.m4a)
+## [First win, unachievable task or near future?](https://github.com/AugustusWillisWang/Esports/blob/master/sd.m4a)
 
 by Koko Zhao [zhao_xurui@126.com](zhao_xurui@126.com)
 
 <!-- by Luna Liang [nihao@126.com](nihao@126.com) -->
 
 <!-- by Penny Chen [huaji@233.com](huaji@233.com) -->
-
+<!-- 
 ## [The future of esports: passers-by or conqueror?](111.ccc)
 
-by William Wang [zeweiwang@outlook.com](zeweiwang@outlook.com)
+by William Wang [zeweiwang@outlook.com](zeweiwang@outlook.com) -->
 
 ***
 
