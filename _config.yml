@@ -8,7 +8,7 @@ language: 'en-uk'
 baseurl: "/Esports/"
 
 # Website info
-title: "Esports Express"
+title: "Esports 101"
 description:  "Esports Express: The website focus on the deepest discussion about esports."
 cover: assets/images/home-bg.jpg
 logo: assets/images/logo.png

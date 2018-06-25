@@ -1,10 +1,13 @@
 --- 
-layout: page 
+layout:     post
+current:    post
+navigation: True
 title: "Podcast" 
 description: "Listen to our podcast for more about esports." 
 header-img: "img/pod.jpg" 
 class: page-template
-subclass: 'post page'
+# subclass: 'post page'
+
 ---
 <!-- 
 ## [XXXX1](1111.ccc) -->
