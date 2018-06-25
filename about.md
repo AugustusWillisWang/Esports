@@ -1,8 +1,11 @@
 --- 
 layout: page 
+current: about
 title: "About" 
 description: "Hey, greetings from UCAS." 
 header-img: "img/about-bg.jpg" 
+class: page-template
+subclass: 'post page'
 ---
 
 
@@ -22,7 +25,9 @@ Pictures used in this website are copyleft photos from [unsplash](https://unspla
 
 ---
 <!-- <p style="text-align:right;"> -->
-Special thanks to Hux. This website is build on the template of Hux's Blog. See:
+Special thanks to Hux. This 1st version of this website is build on the template of Hux's Blog. See:
     <a href="https://github.com/Huxpro/huxpro.github.io">https://github.com/Huxpro/huxpro.github.io</a>
+
+Final version is based on `Ghost`, with the help of `jasper2`.
 <!-- </p> -->
 

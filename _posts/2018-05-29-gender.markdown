@@ -1,7 +1,7 @@
 ---
 
 current:    post
-navigation: true
+navigation: True
 cover: 'assets/images/0.jpeg'
 
 layout:     post
@@ -14,8 +14,8 @@ tags:
     - Gender segregation
     - e-sports
     - female
+class: post-template
 ---
-
 
 ## Minority in this thriving industry 
 

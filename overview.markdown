@@ -1,17 +1,24 @@
 ---
 layout:     post
+current:    post
+navigation: True
 title:      "Overview on Esports"
 subtitle:   "Esports industrial: from the league to eSports participants"
 date:       2018-05-29 23:23:23
 author:     "William Wang"
-header-img: "img/bg.jpg"
+header-img: "img/pod.jpg"
+cover: 'assets/images/pod.jpg'
 tags:
     - Industrial
     - Business
     - Players
     - Audiences
     - Organizers
+class: page-template
+# class: post-template
+# subclass: 'post tag-fiction'
 ---
+
 
 <!-- > todo: add details, add data, add examples -->
 
@@ -43,7 +50,7 @@ ref: https://www.natlawreview.com/article/esports-insights-and-trends-staying-cu
 
 <!-- ### 1. Introduction -->
 
-Is has not been so many years since the word *e-sports* came into the eyes of general public, and this word had been long considered to be equal to simply game playing. People who are not concerned about e-sports may find it difficult to understand why so many people are boosting e-sports now and hard to believe that many people can live by their jobs about e-sports. Yet the industrial of e-sports has been on its track since 1998 in Korea, and it is blooming faster and faster with the help of the Mobile Internet.
+Is is not so many years since the word *e-sports* came into the eyes of general public, and this word had been long considered to be equal to simply game playing. People who are not concerned about e-sports may find it difficult to understand why so many people are boosting e-sports now and hard to believe that many people can live by their jobs about e-sports. Yet the industrial of e-sports is on its track since 1998 in Korea, and it is blooming faster and faster with the help of the Mobile Internet.
 
 In old days, people underlooked esport's future because at that time, esports depend heavily on their sponsers. These sponsers are often giant companies and the money ther paid on esports were only a small amount of money, compared with the vast cost for their advertising. In recent days, however, esports are becoming more and more like traditional sporting events, in which the organizer of the game benefits both from the audiences and the advertisement publishers, which lead to the effect that more and more investers are becoming interested in esports.
 

@@ -1,91 +1,93 @@
-# Site settings
-title: Esports Express
-SEOTitle: Esports Express | Esports Express based on Github.io
-header-img: img/home-bg.jpg
-email: zeweiwang@outlook.com
-description: "The website focus on the deepest discussion about esports."
-keyword: "Esports"
-url: "https://augustuswilliswang.github.io"              # your host, for absolute URL
-baseurl: "/Esports"         # for example, '/blog' if your blog hosted on 'host/blog'
-
-
-
-# SNS settings
-RSS: true
-# weibo_username:     huxpro
-# zhihu_username:     huxpro
-github_username:    AugustusWillisWang
-#twitter_username:  huxpro
-# facebook_username:  realDonaldTrump
-
-
-
-# Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-highlighter: rouge
-permalink: pretty
-paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
-
-
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-plugins: [jekyll-paginate]
-
-
-
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
+# Jekyll configuration
 markdown: kramdown
-kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+highlighter: rouge
+paginate: 100 # it will paginate after this number
+language: 'en-uk'
 
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: "/Esports/"
 
+# Website info
+title: "Esports Express"
+description:  "Esports Express: The website focus on the deepest discussion about esports."
+cover: assets/images/home-bg.jpg
+logo: assets/images/logo.png
+logo_dark: assets/images/logo.png
+favicon: assets/images/favicon.ico
+production_url: "https://augustuswilliswang.github.io/Esports"
+source_url: https://augustuswilliswang.github.io/Esports
 
-# Disqus settings
-#disqus_username: _your_disqus_short_name_
+# Social info
+navigation: True # show the navbar links
+subscribers: False # you need to connect an external service for this to work,
+# if 'True' the submit button is disabled for now, but you can change that
+# by editing `_includes/subscribe-form.html`
+# twitter: tryghost # replace by your username
+# facebook: ghost # replace by your username
 
-# Duoshuo settings
-# duoshuo_username: huxblog
-# Share component is depend on Comment so we can NOT use share only.
-# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+# Disqus
+disqus: False
+disqus_shortname: jekyller # replace with your disqus username
 
-
-
-
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-# ga_domain: huangxuan.me
+# google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
+# Permalinks
+permalink: /:title
+# permalink: /author/:author
+# permalink: /tag/:tag
 
+# Authors' info in `_data/authors.yml`
+# Tags' info in `_data/tags_info.yml`
 
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "The website focus on the deepest discussion about esports."
-# sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# gems and other configs
+plugins: [jekyll-paginate, jekyll-feed]
 
+feed:
+  path: feed.xml
 
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
 
-# Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+# Settings for builing master branch with travis-ci
+# with jekyll-travis
 
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+safe: False
+lsi: False
+username: jekyller
+repo: jasper2
+branch: master
+relative_source: ../jasper2/
+destination: ../jasper2-pages/
+production_url:  https://jekyller.github.io/jasper2/
+source_url:  https://github.com/jekyller/jasper2/
 
-
-# Friends
-friends: [
-    {
-        title: "William Wang",
-        href: "https://github.com/AugustusWillisWang"
-    },{
-        title: "Unsplash",
-        href: "https://unsplash.com/"
-    }
-]
+exclude:
+  - assets/css
+  - node_modules
+  - vendor
+  - .travis.yml
+  - Gemfile
+  - Gemfile.lock
+  - GHOST.txt
+  - gulpfile.js
+  - LICENSE
+  - package.json
+  - Rakefile
+  - README.md
+  - script.py
+  - changelog.md
+  - "*.Rmd"
+  - .git*

@@ -1,4 +1,8 @@
 ---
+current:    post
+navigation: True
+cover: 'assets/images/bg.jpg'
+
 layout:     post
 title:      "Cheating in E-Sports"
 subtitle:   "Why people cheat and how to prevent it"
@@ -8,6 +12,7 @@ header-img: "img/bg.jpg"
 tags:
     - Cheating
     - Players
+class: post-template
 ---
 
 After a one-month farce, Lu Benwei, a game streamer who was accused by cheating in a game called Player Unknown's Battle Grounds, was finally thrown out of the live platform. Even though he had tried very hard to explain away his behavior, the fact that he had used cheating application could not been hidden under the persuasive evidence. It is hard to imagine that such a popular streamer with millions of fans could ended his career in a such shamed way. Just in a night, he had to say goodbye to his fans, as well as his reputation.
